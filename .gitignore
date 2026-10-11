@@ -1,0 +1,11 @@
+# 真实资料放在仓库外；这里是第二层防护。
+personal/
+private/
+logs/
+progress/
+photos/
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.pyc

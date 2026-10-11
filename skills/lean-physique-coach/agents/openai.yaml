@@ -1,0 +1,4 @@
+interface:
+  display_name: "薄肌训练助手"
+  short_description: "按时间与状态安排力量和日常运动，记录训练并每周复盘，持续改善线条与表现"
+  default_prompt: "使用 $lean-physique-coach，根据我的时间、训练记录和今天的状态安排运动。"
